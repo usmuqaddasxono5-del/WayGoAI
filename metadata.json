@@ -1,0 +1,10 @@
+{
+  "name": "YO'LCHI AI",
+  "description": "Sizga kerakli joyni topib beruvchi aqlli sun'iy intellekt yordamchisi - butun O'zbekiston bo'ylab joylashuv, masofa va yo'nalishlar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
